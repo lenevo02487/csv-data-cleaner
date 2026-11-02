@@ -1,0 +1,21 @@
+order_id,customer,product,quantity,order_date,amount
+1001,Aarav Shah,Wireless Mouse,2,2026-01-05,1499
+1002,Priya Nair,Notebook Pack,5,2026-01-05,499
+1003,Rohan Mehta,USB-C Cable,3,2026-01-06,899
+1004,Sneha Kulkarni,Desk Lamp,1,2026-01-07,1299
+1005,Kabir Singh,Steel Water Bottle,4,2026-01-08,799
+1006,Ananya Gupta,Mechanical Keyboard,1,2026-01-09,3499
+1007,Vikram Rao,Mouse Pad,2,2026-01-10,399
+1008,Isha Bose,Phone Stand,3,2026-01-11,899
+1009,Arjun Malhotra,Backpack,1,2026-01-12,2199
+1010,Meera Joshi,Water Bottle,2,2026-01-12,649
+1011,Dev Patel,USB-C Cable,1,2026-01-13,449
+1012,Kavya Reddy,Notebook Pack,10,2026-01-14,999
+1013,Nikhil Verma,Desk Organizer,2,2026-01-15,749
+1014,Ritu Sharma,Wireless Mouse,1,2026-01-16,1499
+1015,Aditya Khan,Monitor Stand,1,2026-01-17,2899
+1016,Sara Thomas,Keyboard Cover,2,2026-01-18,549
+1017,Manav Kapoor,Steel Water Bottle,3,2026-01-19,1199
+1018,Tara Menon,Phone Stand,2,2026-01-20,599
+1019,Yash Thakur,Mouse Pad,5,2026-01-21,999
+1020,Leela Prasad,Desk Lamp,2,2026-01-22,2598
